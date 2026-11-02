@@ -1,0 +1,30 @@
+{
+  "name": "proyecto_gestion_procesos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "coverage": "vitest run --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josefon19/Proyecto_Gestion_Procesos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Josefon19/Proyecto_Gestion_Procesos/issues"
+  },
+  "homepage": "https://github.com/Josefon19/Proyecto_Gestion_Procesos#readme",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@vitest/coverage-v8": "^5.1.0",
+    "eslint": "^10.14.0",
+    "globals": "^17.14.0",
+    "vitest": "^5.1.0"
+  }
+}
